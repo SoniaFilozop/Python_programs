@@ -19,4 +19,3 @@ def tic_tac_toe(field):
         print('0 win')
     else:
         print('draw')
-print()
